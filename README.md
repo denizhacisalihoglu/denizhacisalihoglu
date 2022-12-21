@@ -7,7 +7,7 @@ I specialize in UI/UX, Interaction Design, Prototyping, JavaScript, and CSS deve
 In my free time, you can find me going on a motorcycle tour in the city, playing flute, or sculping ceramic clay or working on personal projects to stay up-to-date with the latest developments in my field.
 Feel free to take a look at my projects and contributions on GitHub, and don't hesitate to reach out if you have any questions or would like to collaborate on a project. Thank you for visiting my profile!
 
-🌱 I’m currently learning tailwind and react
+🌱 I’m currently learning Tailwind CSS and React.
 
 
 ### :fire: My Stats
