@@ -1,24 +1,12 @@
-Hi there! 👋
+Greetings! 👋
 
-My name is Deniz and I am a UI/UX Designer and Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for Interaction Design and Instructional Technologies. I have been working in the Gaming and Media industry for 4 years, and I am always looking for new opportunities to learn and grow as a developer/designer.
+I am Deniz, a skilled web developer with a (deep-rooted) passion for UI/UX design. With years of experience working in the Gaming and Media industries, I possess a wide range of knowledge and expertise that enables me to deliver top-notch solutions.
 
-I specialize in UI/UX, Interaction Design, Prototyping, JavaScript, and CSS development.
+My core areas of specialization include JavaScript and CSS development, UI/UX, Interaction Design, and Prototyping. I am committed to staying up-to-date with the latest trends and techniques in my field and continually work on pet projects to refine my skills.
 
-In my free time, you can find me going on a motorcycle tour in the city, playing flute, or sculping ceramic clay or working on personal projects to stay up-to-date with the latest developments in my field.
-Feel free to take a look at my projects and contributions on GitHub, and don't hesitate to reach out if you have any questions or would like to collaborate on a project. Thank you for visiting my profile!
+In my free time, I enjoy going on motorcycle tours in the city, playing the flute, and sculpting ceramic clay. Feel free to browse my projects and contributions on GitHub, and contact me if you have any inquiries or would like to collaborate on a project.
 
-🌱 I’m currently learning Tailwind CSS and React.
-
-
-### :fire: My Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denizhacisalihoglu&theme=light&date_format=j%20M%5B%20Y%5D&background=fff&border=fff&stroke=fff&ring=101010&fire=FF9554&currStreakNum=101010&sideNums=101010&currStreakLabel=101010&sideLabels=101010&dates=444)
-
-<details>
-<summary><b><u><font size="+1">Most Used Languages</font></u></b></summary>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizhacisalihoglu&layout=compact&theme=vision-friendly-light&border=fff)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
+🌱 Thank you for taking the time to visit my profile!
 
 <div id="badges">
   <a style="color: #101010" href="https://www.linkedin.com/in/denizhacisalihoglu/">
